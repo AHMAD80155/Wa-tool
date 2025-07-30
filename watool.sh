@@ -53,7 +53,7 @@ type_text() {
 # Clear screen and show header
 clear
 echo -e "${RED}╔══════════════════════════════════════════════════════════╗${NC}"
-echo -e "${RED}║${YELLOW}                SYSTEM INFILTRATION TOOL v2.0                ${RED}║${NC}"
+echo -e "${RED}║${YELLOW}                SYSTEM INFILTRATION TOOL v5.0                ${RED}║${NC}"
 echo -e "${RED}╚══════════════════════════════════════════════════════════╝${NC}"
 echo
 
